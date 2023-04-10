@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mia. I'm a former Earth Scientist/Geologist with an interest in computer science.
-- 👀 I’m interested in becoming a self-taught developer for mobile and web apps.
-- 🌱 I’m currently learning Python but I started my learning journey with front end web development.
-- 💞️ I’m not actively seeking collaboration at the moment but am open to new opportunities.
+- 👋 Hi, I’m Mia. I'm a former Earth Scientist/Geologist. Currently seeking data analysis positions.
+- 👀 I’m interested in working on interesting problems
+- 🌱 I’m currently working on data analysis projects that utilize SQL, Excel, Python, and Tableau but I got my start in front-end webdesign from freeCodeCamp's online course.
 - 📫 How to reach me: floresdmia@gmail.com
 
 <!---
