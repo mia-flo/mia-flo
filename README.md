@@ -2,6 +2,7 @@
 - 👀 I’m interested in problem solving and implementing data driven solutions.
 - 🌱 I’m currently working on data analysis projects that utilize SQL, Excel, Python, and Tableau but I got my start in front-end webdesign from freeCodeCamp's online course.
 - 📫 How to reach me: floresdmia@gmail.com
+- Portfolio website: https://mia-flores.netlify.app/
 
 <!---
 mia-flo/mia-flo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
